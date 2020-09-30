@@ -13,4 +13,4 @@ fields:
     required: false
   label: Podnaslov
 pages:
-- blog/prvi-blog-post.md
+- blog/blog-intro.md
