@@ -19,3 +19,5 @@ SUper ovo je kraj
 ![](/uploads/screenshot-2020-09-30-at-08-01-05.png)
 
 Ovo je dobro
+
+![](/uploads/bla/screenshot-2020-09-30-at-08-04-37.png)
