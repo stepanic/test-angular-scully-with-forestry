@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Podnaslov
+pages:
+- blog/prvi-blog-post.md
