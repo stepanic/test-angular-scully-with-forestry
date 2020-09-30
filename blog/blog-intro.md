@@ -21,3 +21,7 @@ SUper ovo je kraj
 Ovo je dobro
 
 ![](/uploads/bla/screenshot-2020-09-30-at-08-04-37.png)
+
+zdsada
+
+![](/uploads/bla/screenshot-2020-09-30-at-08-07-08.png)
