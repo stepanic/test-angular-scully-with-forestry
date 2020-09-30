@@ -21,5 +21,8 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: published
+  type: boolean
+  label: Objavljeno
 pages:
 - blog/blog-intro.md
